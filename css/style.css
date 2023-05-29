@@ -184,7 +184,7 @@ a{
     font-weight: bolder;
 }
 .left-btn{
-    padding:13px 30px ;
+    padding:13px 20px ;
     background-color: #ff305b;
     border: 0px;
     border-radius: 4px;
@@ -193,7 +193,7 @@ a{
     margin-top: 10px;
 }
 .right-btn{
-    padding: 13px 30px;
+    padding: 13px 20px;
     background-color: #ff305b;
     border: 0px;
     border-radius: 4px;
@@ -630,6 +630,7 @@ a{
 
     .portofolio-list{
         width: 100%;
+        font-size: .9em;
     }
     .infosec-container{
         width: 90%;
@@ -661,6 +662,10 @@ a{
         width: 80% ;
     }
 
+    .feedback-header {
+        width: 80%;
+    }
+
     .ourblog-container{
         width: 70%;
     }
@@ -671,7 +676,7 @@ a{
     }
 
     .ourblog-header{
-        width: 50%;
+        width: 80%;
     }
 
     .contactus-container{
@@ -688,7 +693,7 @@ a{
         width: 100%;
     }
     .contactus-header{
-        width: 50%;
+        width: 80%;
     }
 
     .footer-container i{
