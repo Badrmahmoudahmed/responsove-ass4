@@ -184,7 +184,7 @@ a{
     font-weight: bolder;
 }
 .left-btn{
-    padding:13px 20px ;
+    padding:13px 25px ;
     background-color: #ff305b;
     border: 0px;
     border-radius: 4px;
@@ -193,7 +193,7 @@ a{
     margin-top: 10px;
 }
 .right-btn{
-    padding: 13px 20px;
+    padding: 13px 25px;
     background-color: #ff305b;
     border: 0px;
     border-radius: 4px;
@@ -593,6 +593,10 @@ a{
         width: 100%;
     }
 
+    .right-btn , .left-btn{
+        padding: 7px 13px;
+    }
+
     .icn{
         width: 100%;
     }
@@ -630,7 +634,7 @@ a{
 
     .portofolio-list{
         width: 100%;
-        font-size: .9em;
+        font-size: .7em;
     }
     .infosec-container{
         width: 90%;
@@ -663,11 +667,11 @@ a{
     }
 
     .feedback-header {
-        width: 80%;
+        width: 90%;
     }
 
     .ourblog-container{
-        width: 70%;
+        width: 80%;
     }
 
     .bloger{
